@@ -8,4 +8,4 @@
 For my final course project I would like to choose a free topic (Option 5) and explore the impact of the information extracted from the Management’s Discussion and Analysis (MD&A) section of the company’s SEC filing on the future stock price.
 
 ### Project Proposal
-File **Project Proposal dmitryv2.pdf** contains the project proposal.
+File [Project Proposal dmitryv2.pdf]('Project Proposal dmitryv2.pdf') contains the project proposal.
