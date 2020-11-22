@@ -9,3 +9,7 @@ For my final course project I would like to choose a free topic (Option 5) and e
 
 ### Project Proposal
 File [Project Proposal dmitryv2.pdf](https://github.com/dvillevald/CourseProject/blob/main/Project%20Proposal%20dmitryv2.pdf) contains the project proposal.
+
+### Update (Nov 21, 2020) Project Progress Report is uploaded
+File [Project Progress Report dmitryv2.pdf](https://github.com/dvillevald/CourseProject/blob/main/Project%20Proposal%20dmitryv2.pdf) is a project progress report.
+
