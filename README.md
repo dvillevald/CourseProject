@@ -24,3 +24,6 @@ The Python script **demo.py**
 4) Loads company's stock prices and calculates weekly, quarterly and yearly 
    forward returns, starting from the filing date (+ execution_lag_days to mitigate a look-ahead bias via simulation of a more realistic and conservative scenario where the stocks were purchased/sold on the next business day after the filing date).
 5) Combines together sentiment scores and foward returns, calculates returns of investment strategies and saves the results in **/results/Investment strategies results.csv**
+
+### Video
+The video with demonstration of demo.py and the output can be found [here](www.youtube.com)
