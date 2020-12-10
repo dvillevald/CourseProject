@@ -18,7 +18,7 @@ I completed most of what I planned. I was able to load from SEC database the ind
 
 ### Code
 The Python script **demo.py** 
-1) Downloads 10-Q and 10-K SEC filings for selected companies (Ticker and CIK for each company shoud be provided in the input file **/investment_universe/tickers_and_ciks.csv**. Note that **Ticker** is used to load the historical company's stock prices to backtest investment strategy while **CIK** (the Central Index Key) is required to download company's filings from SEC's EDGAR database.  
+1) Downloads 10-Q and 10-K SEC filings for selected companies. **Ticker**, **CIK** and **Company** (company name) should be provided, for each company one is interested in, in the input file **/investment_universe/tickers_and_ciks.csv** (Note that the input file for the demo contains this data for two companies - McDonalds Corp. and Apple Inc.) **Ticker** is used to load the historical company's stock prices to backtest investment strategy while **CIK** (the Central Index Key) is required to download company's filings from SEC's EDGAR database.  
 2) Calculates term frequency for each filing,
 3) Estimates sentiment scores (Positive, Negative, Uncertain and Litigious) for each report,
 4) Loads company's stock prices and calculates weekly, quarterly and yearly 
