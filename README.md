@@ -1,7 +1,7 @@
 ## CS 410 Course Project
 
-## Using MD&A of company's SEC filing to predict future stock price
-### CS410 Final Project Proposal (Individual project)
+## Using sentiment of company's SEC filing to predict future stock returns
+### CS410 Final Project (Individual project)
 ### Project coordinator/Author: Dmitry Villevald (dmitryv2@illinois.edu)
 
 ### Goal
@@ -10,6 +10,6 @@ For my final course project I would like to choose a free topic (Option 5) and e
 ### Project Proposal
 File [Project Proposal dmitryv2.pdf](https://github.com/dvillevald/CourseProject/blob/main/Project%20Proposal%20dmitryv2.pdf) contains the project proposal.
 
-### Update (Nov 21, 2020) Project Progress Report is uploaded
+### Project Progress Report
 File [Project Progress Report dmitryv2.pdf](https://github.com/dvillevald/CourseProject/blob/main/Project%20Progress%20Report%20dmitryv2.pdf) is a project progress report.
 
