@@ -1,8 +1,7 @@
-## CS 410 Course Project
+## CS 410 Course Final Project Report
 
 ## Using the sentiment analysis of companys' SEC filings to predict future stock returns
-### CS410 Final Project (Individual project)
-### Project coordinator/Author: Dmitry Villevald (dmitryv2@illinois.edu)
+### Author: Dmitry Villevald (dmitryv2@illinois.edu)
 
 ### Goal
 For my final project I chose a free topic (Option 5) and explored the impact of the sentiment extracted from company's 10-Q and 10-k SEC filings on the company's stock price. My expectation was that while there could be a minor impact from the sentiment changes in the filings on the stock price for some companies, this impact is likely too small and statistically insignificant for building stock investment strategy based on the sentiment only. 
