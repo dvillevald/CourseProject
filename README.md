@@ -23,6 +23,8 @@ Although I only explored a few years (2016-2020) of filings for about 20 large U
 
 Regarding the correlation between the future returns and changes in the sentiment scores of SEC filings, I observed some positive correlation between 1-month-forward returns from the date of filing and the quarterly changes in Negative, Uncertain and Litigious sentiment scores. For example, as the chart below shows, for MCD and APPL stocks the *increase* in negative/uncertain/litigious sentiment scores was followed by *larger positive* stock returns over the following month which is probably contrary to what most would expect. 
      
+![](https://github.com/dvillevald/CourseProject/blob/main/demo/images/Monthy%20forward%20stock%20returns%20for%20different%20quarterly%20changes%20in%20Uncertain%20sentiment%20score.png)
+
 In conclusion, while the changes in the sentiment of company's filings seem to have some impact on the future stock returns, this impact is not large and, given a small data sample, is likely statistically insignificant. Additional research with more companies and longer time period is needed to build a viable stock investment strategy based on a sentiment of companies' SEC filings.
 
 Note that the charts above were built from the output of Python script **demo.py** - file **Sentiment scores of SEC filings with forward stock returns.csv** - referenced below in subsection **Outputs**.
