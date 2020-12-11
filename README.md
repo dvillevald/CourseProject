@@ -5,7 +5,7 @@
 ### Project coordinator/Author: Dmitry Villevald (dmitryv2@illinois.edu)
 
 ### Goal
-For my final project I chose a free topic (Option 5) and explores the impact of the sentiment extracted from company's 10-Q and 10-k SEC filings on the company's stock price. My expectation is while there could be a minor impact from the sentiment changes in the filings on the stock price for some companies, this impact is too small to use sentiment as an investment strategy. 
+For my final project I chose a free topic (Option 5) and explored the impact of the sentiment extracted from company's 10-Q and 10-k SEC filings on the company's stock price. My expectation was that while there could be a minor impact from the sentiment changes in the filings on the stock price for some companies, this impact is likely too small and statistically insignificant for building stock investment strategy based on the sentiment only. 
 
 ### Project Proposal
 File [Project Proposal dmitryv2.pdf](https://github.com/dvillevald/CourseProject/blob/main/Project%20Proposal%20dmitryv2.pdf) contains the project proposal.
