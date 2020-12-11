@@ -29,7 +29,7 @@ In conclusion, while the changes in the sentiment of company's filings seem to h
 Note that the charts above were built from the output of Python script **demo.py** - file **Sentiment scores of SEC filings with forward stock returns.csv** - referenced below in subsection **Outputs**.
 
 ### Demo (Video)
-The video with demonstration of demo.py and the output can be found [here](https://youtu.be/H9MoPwvfUus)
+The video with demonstration of how to run script **demo.py** and produce the output can be found [here](https://youtu.be/H9MoPwvfUus)
 
 ### Documented Source Code (folder **demo**)
 The Python script **demo.py** 
