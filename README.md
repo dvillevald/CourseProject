@@ -65,3 +65,4 @@ The script *demo.py* outputs two files and places them in folder **/results**:
 1) https://gist.github.com/madewitt/29bceb51c494ef9ea1d34f9474aa4b3c
 2) https://github.com/weiwangchun/cs410
 3) https://www.sec.gov/edgar/searchedgar/accessing-edgar-data.htm
+4) https://sraf.nd.edu/textual-analysis/resources/#LM%20Sentiment%20Word%20Lists
