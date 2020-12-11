@@ -46,9 +46,7 @@ The script *demo.py* takes the following inputs:
 - **Ticker** - the exchange ticker of a company's stock. Ticker is used to load the historical company's stock prices to backtest the investment strategy
 - **CIK** - the Central Index Key of a company in SEC EDGAR database. CIK is used to download the company's filings from SEC's EDGAR database for sentiment analysis
 - **Company** - the Company's name which is used for reference only
-
-(Note that the input file for the demo contains this data for two companies - McDonalds Corp. and Apple Inc.)
-
+Note that the input file for the demo contains this data for two companies - McDonalds Corp. and Apple Inc.
 2) Four files with LoughranMcDonald sentiment lists (**positive.csv**, **negative.csv**, **uncertain.csv** and **litigious.csv**) which are located in folder **/sentiment_word_lists** 
 
 #### Outputs
