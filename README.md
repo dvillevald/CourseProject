@@ -31,13 +31,15 @@ Note that the charts above were built from the output of Python script **demo.py
 ### Demo (Video)
 The video with demonstration of demo.py and the output can be found [here](www.youtube.com)
 
-### Documented Source Code
+### Documented Source Code (folder **demo**)
 The Python script **demo.py** 
 1) Downloads 10-Q and 10-K SEC filings for selected companies. **Ticker**, **CIK** and **Company** (company name) should be provided (for each companies one is interested in) in the input file **/investment_universe/tickers_and_ciks.csv** (Note that the input file for the demo contains this data for two companies - McDonalds Corp. and Apple Inc.) **Ticker** is used to load the historical company's stock prices to backtest investment strategy while **CIK** (the Central Index Key) is required to download company's filings from SEC's EDGAR database.  
 2) Build a bag-of-words representation and calculates term frequency for each SEC filing.
 3) Calculates sentiment scores (Positive, Negative, Uncertain and Litigious) for each report.
 4) Downloads historical company's stock prices and calculates weekly, quarterly and yearly forward returns, starting from the filing date (+ *execution_lag_days* to mitigate a look-ahead bias via simulation of a more realistic and conservative scenario where the stocks are purchased/sold on the next business day after the filing date).
 5) Combines together sentiment scores and foward returns, calculates returns of a few simple investment strategies and saves the results in folder **/results**.
+
+In addition to the instructions below, the Python script **demo.py** has detailed comments on each step. Also, [this video](www.youtube.com) shows how to run the script.
 
 #### Instructions
 1) Before running the script *demo.py*, please assign to variable **base_path** the location of (path to) the project folder.
