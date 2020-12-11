@@ -19,7 +19,7 @@ I completed most of what I planned. I was able to download from the SEC EDGAR da
 ### Main Results
 Although I only explored a few years (2016-2020) of filings for about 20 large US companies, I was able to observe some interesting results. For example, I found that Negative, Uncertain and Litigious sentiments are strongly correlated which suggests that if we use one of there three sentiments in out investment strategy, the incremental impact from including the other two will probably be marginal if any.
 
-![](image.png)
+![](https://github.com/dvillevald/CourseProject/blob/main/demo/images/Correlations%20between%20qtrly%20changes%20in%20stock%20sentiments.png)
 
 Regarding the correlation between the future returns and changes in the sentiment scores of SEC filings, I observed some positive correlation between 1-month-forward returns from the date of filing and the quarterly changes in Negative, Uncertain and Litigious sentiment scores. For example, as the chart below shows, for MCD and APPL stocks the *increase* in negative/uncertain/litigious sentiment scores was followed by *larger positive* stock returns over the following month which is probably contrary to what most would expect. 
      
