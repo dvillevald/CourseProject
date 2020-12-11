@@ -25,6 +25,9 @@ In conclusion, while the changes in the sentiment of company's filings seem to h
 
 Note that the charts above were built from the output of Python script **demo.py** - file **Sentiment scores of SEC filings with forward stock returns.csv** - referenced below in subsection **Outputs**.
 
+### Demo (Video)
+The video with demonstration of demo.py and the output can be found [here](www.youtube.com)
+
 ### Documented Source Code
 The Python script **demo.py** 
 1) Downloads 10-Q and 10-K SEC filings for selected companies. **Ticker**, **CIK** and **Company** (company name) should be provided (for each companies one is interested in) in the input file **/investment_universe/tickers_and_ciks.csv** (Note that the input file for the demo contains this data for two companies - McDonalds Corp. and Apple Inc.) **Ticker** is used to load the historical company's stock prices to backtest investment strategy while **CIK** (the Central Index Key) is required to download company's filings from SEC's EDGAR database.  
@@ -53,9 +56,6 @@ Note that the input file for the demo contains this data for two companies - McD
 The script *demo.py* outputs two files and places them in folder **/results**:
 1) File **Sentiment scores of SEC filings with forward stock returns.csv** contains (1) a history of the sentiment scores extracted from SEC filings of the selected companies, (2) the changes (quarterly and yearly) of those sentiment scores and (3) one-week, one-month and one-quarter forward total stock returns (including dividends and adjusted for stock splits and spinoffs) starting from the date of SEC filing.
 2) File **Investment strategies results.csv** contains the results of testing simple investment strategy where one takes a long position in a stock (i.e buys it) when the sentiment percent change value exceeds the *long* threshold and takes a short position in a stock (i.e. sells it short) when the sentiment percent change falls below the *short* threshold.  
-
-### Demo (Video)
-The video with demonstration of demo.py and the output can be found [here](www.youtube.com)
 
 ### Credits
 1) https://gist.github.com/madewitt/29bceb51c494ef9ea1d34f9474aa4b3c
