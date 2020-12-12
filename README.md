@@ -1,6 +1,6 @@
 ## CS 410 Course Final Project Report
 
-## Using the sentiment analysis of companys' SEC filings to predict future stock returns
+## Using the sentiment analysis of company's SEC filings to predict future stock returns
 ### Author: Dmitry Villevald (dmitryv2@illinois.edu)
 
 ### Goal
