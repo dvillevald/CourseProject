@@ -29,7 +29,7 @@ In conclusion, while the changes in the sentiment of company's filings seem to h
 Note that the charts above were built from the output of Python script **demo.py** - file **Sentiment scores of SEC filings with forward stock returns.csv** - referenced below in subsection **Outputs**.
 
 ### Demo (Video)
-The video with demonstration of how to run script **demo.py** and produce the output can be found [here](https://youtu.be/fYK3ld8YAYs)
+The video with demonstration of how to run script **demo.py** and produce the output can be found [here](https://mediaspace.illinois.edu/media/1_o4c11nf6)
 
 ### Documented Source Code (folder **demo**)
 The Python script **demo.py** 
@@ -39,7 +39,7 @@ The Python script **demo.py**
 4) Downloads historical company's stock prices and calculates weekly, quarterly and yearly forward returns, starting from the filing date (+ *execution_lag_days* to mitigate a look-ahead bias via simulation of a more realistic and conservative scenario where the stocks are purchased/sold on the next business day after the filing date).
 5) Combines together sentiment scores and foward returns, calculates returns of a few simple investment strategies and saves the results in folder **/results**.
 
-In addition to the instructions below, the Python script **demo.py** has detailed comments on each step. Also, [this video](https://youtu.be/fYK3ld8YAYs) shows how to run the script.
+In addition to the instructions below, the Python script **demo.py** has detailed comments on each step. Also, [this video](https://mediaspace.illinois.edu/media/1_o4c11nf6) shows how to run the script.
 
 #### Instructions
 1) Before running the script *demo.py*, please assign to variable **base_path** the location of (path to) the project folder.
